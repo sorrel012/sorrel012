@@ -42,9 +42,8 @@
 
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>License <br>
-    - <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 정보처리기사
+    <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 정보처리기사
 </p>
 <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorrel012&layout=compact&theme=onedark">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
