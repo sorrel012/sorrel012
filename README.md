@@ -45,5 +45,5 @@
     <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 정보처리기사
 </p>
 <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorrel012&layout=compact&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorrel012&layout=compact&theme=rose">
 <br>
