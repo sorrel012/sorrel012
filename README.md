@@ -8,7 +8,7 @@
 <p align="center" dir="auto">
     <strong>☁My Profile☁️</strong><br><br>
     <a href="https://sorrel012.tistory.com"><img src="https://img.shields.io/badge/Tistory-535D6C?style=for-the-badge&logo=Tistory&logoColor=white"></a>   
-    <a href="https://github.com/sorrel012"><img src="https://img.shields.io/badge/Portfolio-FCD5CE?style=for-the-badge&logo=microsoftacademic&logoColor=white"></a>
+    <a href="https://sorrel012.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FCD5CE?style=for-the-badge&logo=microsoftacademic&logoColor=white"></a>
 <br><br>
 <strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br>sorrel012@gmail.com<br>
 </p>
