@@ -46,8 +46,5 @@
 </p>
 <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorrel012&layout=compact&theme=onedark">
-
-
-
-
 <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
