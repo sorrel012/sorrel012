@@ -26,7 +26,7 @@
 
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>DB <br>
- <img -src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=Oracle&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=Oracle&amp;logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-003545?style=for-the-badge&logo=postgreSQL&logoColor=white">
 </p>
