@@ -27,13 +27,10 @@
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>DB <br>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7ae9721c354206a7cbddaec38fe653fde506a0b2172d84087ac5083834399090/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4f7261636c65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7ae9721c354206a7cbddaec38fe653fde506a0b2172d84087ac5083834399090/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4f7261636c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=Oracle&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://img.shields.io/badge/4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
+<a href="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
 </a>
-<a href="https://img.shields.io/badge/postgresql-003545?style=for-the-badge&logo=postgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/postgresql-003545?style=for-the-badge&logo=postgreSQL&logoColor=white">
-</a>
-
+<img src="https://img.shields.io/badge/postgresql-003545?style=for-the-badge&logo=postgreSQL&logoColor=white">
 </p>
 <p align="center" dir="auto">
     💡Web Skills <br>     
