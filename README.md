@@ -7,7 +7,6 @@
 <p align="center" dir="auto">
     <h2>☁My Profile☁️</h2>
     <a href="https://sorrel012.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=for-the-badge&logo=Tistory&logoColor=white"></a>   
-    <a href="https://sorrel012.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FCD5CE?style=for-the-badge&logo=microsoftacademic&logoColor=white"></a>
 <br><br>
 <h2><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></h2><div>sorrel012@gmail.com</div><br>
 </p>
