@@ -17,11 +17,12 @@
 
 <p align="center" dir="auto">
   <h3><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Language</h3>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">  
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
 </p>
     
 <p align="center" dir="auto">
@@ -33,11 +34,11 @@
 
 <p align="center" dir="auto">
   <h3>💡Web Skills</h3>
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&amp;logo=jsp&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Ajax-ECD53F?style=for-the-badge&amp;logo=Ajax&amp;logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="[https://img.shields.io/badge/Next.js-61DAFB?style=for-the-badge&logo=React&logoColor=white](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Ajax-ECD53F?style=for-the-badge&amp;logo=Ajax&amp;logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white">
