@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/Ajax-ECD53F?style=for-the-badge&amp;logo=Ajax&amp;logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white">
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&amp;logo=apachetomcat&amp;logoColor=white">
 </p>
