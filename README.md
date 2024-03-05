@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white">
 </p>
+<br>
 
 <p align="center" dir="auto">
   <h2><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>License</h2>
